@@ -22,4 +22,4 @@ async def 暇(ctx):
     
     
 token = getenv('DISCORD_BOT_TOKEN')
-bot.run(token)
+bot.run(ODg5MDU0Nzg2MzYyNjc1MjQy.YUbqyg.1j7xjV5JUeAoBboKc0-BQbQP-Y0)
